@@ -16,7 +16,7 @@ sudo apt-get update
 - **IMPORT TOOL**
 
 ```bash
-git clone https://github.com/REVOTRACK/REVO-PSTF-PUB.git
+git clone https://github.com/REVOTRACK/REVOPOST.git
 ```
 
 - **RUN INSTALLER**
