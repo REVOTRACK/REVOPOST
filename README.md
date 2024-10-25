@@ -26,6 +26,15 @@ chmod +x setup_mailer.sh
 ./setup_mailer.sh
 ```
 
+- **TELA3 IP **
+```bash
+curl ifconfig.me
+```
+
+- **TEST DELEVRY  **
+```bash
+echo "Test email from REVO" | mail -s "Test Email" -r "YOUR-FROM@EXAMPLE.COM" YOUR-EMAIL@DOMAIN.COM
+```
 ## NOTES
 
 It is Only For Educational Purposes. Neither I Say Nor I Promote To Do Anything Illegal.  
