@@ -22,8 +22,8 @@ git clone https://github.com/REVOTRACK/REVOPOST.git
 - **RUN INSTALLER**
 
 ```bash
-chmod +x setup_mailer.sh
-./setup_mailer.sh
+sudo chmod +x setup_mailer.sh
+sudo ./setup_mailer.sh
 ```
 
 - **TELA3 IP **
