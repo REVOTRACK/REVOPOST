@@ -35,6 +35,13 @@ curl ifconfig.me
 ```bash
 echo "Test email from REVO" | mail -s "Test Email" -r "YOUR-FROM@EXAMPLE.COM" YOUR-EMAIL@DOMAIN.COM
 ```
+
+- **TLE9 SEND  **
+```bash
+sudo chmod +x send.sh
+sudo ./send.sh
+
+```
 ## NOTES
 
 It is Only For Educational Purposes. Neither I Say Nor I Promote To Do Anything Illegal.  
