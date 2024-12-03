@@ -6,7 +6,9 @@ updated from time to time.
 Last Updated: `Tuesday 22-10-2024 12:25:10 UTC`  
 Total Send Number: `Dependent Your Account`  
 
-## AUTO INSTALLE         **[![REVO](https://img.shields.io/badge/Run-Install-BLUE)]([https://github.com/REVOTRACK](https://t.me/megacrack1))**
+## JOIN TELEGRAM CHANEEL         **[![REVO](https://img.shields.io/badge/JOIN-CHANEL-red)](https://t.me/megacrack1)**
+
+## AUTO INSTALLE         **[![REVO](https://img.shields.io/badge/Click-ToJoing-BLUE)](https://github.com/REVOTRACK)**
 
 - **REVO-PSTF**
 
